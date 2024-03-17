@@ -1,5 +1,5 @@
 # Cartographer
-Cartographer: A Desktop Data Modeling &amp; Analytics IDE
+Cartographer: A Desktop Data Modeling &amp; Analytics Tool
 
 ## Description:
 
@@ -13,15 +13,15 @@ Cartographer empowers you to design, build, and manage data models directly from
 
 ## Built with:
 
-* **Frontend:** Swift (SwiftUI)
+* **Frontend:** React
 * **Backend:** Python (Flask)
 
 ## Getting Started:
 
 1. Clone the repository: git clone git@github.com:josh-spratt/cartographer.git
-2. Install dependencies: Refer to the documentation for installing dependencies for Swift development and Flask development on your chosen operating system.
+2. Install dependencies: Refer to the documentation for installing dependencies for React development and Flask development on your chosen operating system.
 3. Configure Database Connection: Update the configuration file with your PostgreSQL database credentials.
-4. Run the application: Follow the instructions in the README.md file for building and running the Swift frontend and starting the Flask backend server.
+4. Run the application: Follow the instructions in the README.md file for building and running the app.
 
 **Note:** This is an MVP (Minimum Viable Product) focused on core functionalities. Future development will include support for additional database types, data lineage tracking, and version control.
 
